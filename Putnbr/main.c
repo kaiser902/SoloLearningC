@@ -5,7 +5,7 @@ int main()
 {
     int nbr1,nbr2,swift;
     printf("put two number!\n");
-    scanf("%ld %ld",&nbr1,&nbr2);
+    scanf("%d %d",&nbr1,&nbr2);
     swift = nbr1;
     nbr1 = nbr2;
     nbr2 = swift;
