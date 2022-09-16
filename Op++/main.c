@@ -7,7 +7,7 @@ int main()
     x = x + 1; // x is now 4
     x++; // x now is 5
     x += 1; // x now is 6
-    x = x + 1; // is now 7
+    ++x; // is now 7
     x -= 1; // is now 6
     x *= 2; // is now 12
     x /= 2; // is now 6
