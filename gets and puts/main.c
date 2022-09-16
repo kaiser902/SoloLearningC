@@ -3,9 +3,9 @@
 
 int main()
 {
-    char a[100];
-    gets(a);
+    char alpha[100];
+    gets(alpha);
     printf("You entered:\n");
-    puts(a);
+    puts(alpha);
     return 0;
 }
